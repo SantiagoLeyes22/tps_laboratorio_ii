@@ -59,10 +59,9 @@ namespace Entidades
         {
             StringBuilder sb = new StringBuilder();
 
-            sb.AppendLine(base.Mostrar());
-            sb.AppendLine("TIPO : " + this.tipo);
+            sb.Append(base.Mostrar() + "TIPO : " + this.tipo);
+            sb.AppendLine("");
             sb.AppendLine("---------------------");
-
 
             return sb.ToString();
         }
