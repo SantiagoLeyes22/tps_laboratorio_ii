@@ -13,7 +13,7 @@ D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.d
 D:\Federico\VB .Net\Visual C#\utn\TPs\2018\TP-02\Entidades\obj\Debug\Entidades.pdb
 C:\Users\Santiago\Desktop\TP 2\TP-02\Entidades\bin\Debug\Entidades.dll
 C:\Users\Santiago\Desktop\TP 2\TP-02\Entidades\bin\Debug\Entidades.pdb
-C:\Users\Santiago\Desktop\TP 2\TP-02\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
 C:\Users\Santiago\Desktop\TP 2\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Santiago\Desktop\TP 2\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Santiago\Desktop\TP 2\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Santiago\Desktop\TP 2\TP-02\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache

@@ -68,7 +68,8 @@ namespace Entidades
             sb.AppendLine(string.Format("MARCA : {0}\r", p.marca.ToString()));
             sb.AppendLine(string.Format("COLOR : {0}\r", p.color.ToString()));
             sb.AppendLine("---------------------");
-            sb.AppendLine(string.Format("TAMAÑO : {0}", p.Tamanio));
+            sb.AppendLine("");
+            sb.Append(string.Format("TAMAÑO : {0}", p.Tamanio));
 
             return sb.ToString();
         }
