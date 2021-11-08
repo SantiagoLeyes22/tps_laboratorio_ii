@@ -18,6 +18,9 @@ namespace TrabajoPractico3
         private int quitesCorrectos;
 
         #region Propiedades
+        /// <summary>
+        /// Propiedad de lectura y escritura que devuelve la distancia recorrida
+        /// </summary>
         public double DistanciaRecorrida
         {
             get
@@ -29,6 +32,9 @@ namespace TrabajoPractico3
                 this.distanciaRecorrida = value;
             }
         }
+        /// <summary>
+        /// Propiedad de lectura y escritura que devuelve el Tipo de defensor
+        /// </summary>
         public TipoDefensor Tipo
         {
             get
@@ -40,6 +46,9 @@ namespace TrabajoPractico3
                 this.tipo = value;
             }
         }
+        /// <summary>
+        /// Propiedad de lectura y escritura que retorna un entero con el total de quites
+        /// </summary>
         public int TotalQuites
         {
             get
@@ -51,6 +60,9 @@ namespace TrabajoPractico3
                 this.totalQuites = value;
             }
         }
+        /// <summary>
+        /// Propiedad de lectura y escritura que retorna un entero con la cantidad de quites correctos
+        /// </summary>
         public int QuitesCorrectos
         {
             get
@@ -62,6 +74,9 @@ namespace TrabajoPractico3
                 this.quitesCorrectos = value;
             }
         }
+        /// <summary>
+        /// Propiedad de solo lectura que retorna el porcentaje de quites correctos
+        /// </summary>
         public double PorcentajeQuitesCorrectos
         {
             get
@@ -77,10 +92,23 @@ namespace TrabajoPractico3
         #endregion
 
         #region Constructores
+        /// <summary>
+        /// Constructor de defensor sin parametros
+        /// </summary>
         public Defensor()
         {
 
         }
+        /// <summary>
+        /// Constructor de defensor que asigna los valores de distancia recorrida,tipo,total de quites y quites correctos
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="edad"></param>
+        /// <param name="tipo"></param>
+        /// <param name="totalQuites"></param>
+        /// <param name="quitesCorrectos"></param>
+        /// <param name="distancia"></param>
         public Defensor(string nombre, string apellido, int edad, TipoDefensor tipo, int totalQuites, int quitesCorrectos, double distancia) : base(nombre, apellido, edad)
         {
             this.distanciaRecorrida = distancia;
@@ -91,7 +119,10 @@ namespace TrabajoPractico3
         #endregion
 
         #region Metodos
-
+        /// <summary>
+        /// Muestra las estadisticas del defensor
+        /// </summary>
+        /// <returns>String con las estadisticas</returns>
         protected override string MostrarEstadisticas()
         {
             StringBuilder sb = new StringBuilder();
@@ -104,14 +135,15 @@ namespace TrabajoPractico3
 
         #region Sobrecargas
 
+        /// <summary>
+        /// Sobrecarga explicita del string que muestra las estadisticas del defensor
+        /// </summary>
+        /// <param name="d"></param>
         public static explicit operator string(Defensor d)
         {
             return d.MostrarEstadisticas();
         }
-        public override string ToString()
-        {
-            return $"Defensor:" + this.apellido + " " + this.nombre + ",Edad:" + this.edad;
-        }
+        
         #endregion
 
     }

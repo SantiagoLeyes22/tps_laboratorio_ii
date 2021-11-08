@@ -27,3 +27,33 @@ C:\Users\Santiago\Desktop\TP3\AppFutbol\AppFutbolForm\obj\Debug\net5.0-windows\A
 C:\Users\Santiago\Desktop\TP3\AppFutbol\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarBasic.resources
 C:\Users\Santiago\Desktop\TP3\AppFutbol\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormArmarFormacion.resources
 C:\Users\Santiago\Desktop\TP3\AppFutbol\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormSeleccionarPorHabilidad.resources
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\bin\Debug\net5.0-windows\AppFutbolForm.exe
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\bin\Debug\net5.0-windows\AppFutbolForm.deps.json
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\bin\Debug\net5.0-windows\AppFutbolForm.runtimeconfig.json
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\bin\Debug\net5.0-windows\AppFutbolForm.runtimeconfig.dev.json
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\bin\Debug\net5.0-windows\AppFutbolForm.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\bin\Debug\net5.0-windows\ref\AppFutbolForm.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\bin\Debug\net5.0-windows\AppFutbolForm.pdb
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\bin\Debug\net5.0-windows\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\bin\Debug\net5.0-windows\TrabajoPractico3.pdb
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarArquero.resources
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarBase.resources
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarBasic.resources
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarDefensor.resources
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarDelantero.resources
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarMediocampista.resources
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormArmarFormacion.resources
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormPrincipal.resources
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormSeleccionarPorHabilidad.resources
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.Properties.Resources.resources
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.csproj.CopyComplete
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\ref\AppFutbolForm.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.pdb
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.genruntimeconfig.cache

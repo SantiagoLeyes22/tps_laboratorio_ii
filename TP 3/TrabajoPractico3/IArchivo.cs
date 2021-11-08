@@ -9,7 +9,7 @@ namespace TrabajoPractico3
     interface IArchivo<T>
     {
         /// <summary>
-        /// Escribe los datos en un archivo.
+        /// Escribe los datos en un archivo
         /// </summary>
         /// <param name="path">Ruta del archivo.</param>
         /// <param name="datos">Datos a escribir.</param>

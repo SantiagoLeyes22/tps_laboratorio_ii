@@ -14,6 +14,9 @@ namespace TrabajoPractico3
         private int cantidadAsistencias;
 
         #region Propiedades
+        /// <summary>
+        /// Propiedad de lectura y escritura que devuelve la cantidad de pases correctos
+        /// </summary>
         public int CantidadPasesCorrectos
         {
             get
@@ -25,6 +28,9 @@ namespace TrabajoPractico3
                 this.cantidadPasesCorrectos = value;
             }
         }
+        /// <summary>
+        /// Propiedad de lectura y escritura que devuelve la cantidad total de pases
+        /// </summary>
         public int TotalPases
         {
             get
@@ -36,6 +42,10 @@ namespace TrabajoPractico3
                 this.totalPases = value;
             }
         }
+        /// <summary>
+        /// Propiedad de lectura y escritura que devuelve la velocidad
+        /// </summary>
+
         public double Velocidad
         {
             get
@@ -47,6 +57,9 @@ namespace TrabajoPractico3
                 this.velocidad = value;
             }
         }
+        /// <summary>
+        /// Propiedad de lectura y escritura que devuelve la cantidad asistencias
+        /// </summary>
         public int CantAsistencias
         {
             get
@@ -58,6 +71,9 @@ namespace TrabajoPractico3
                 this.cantidadAsistencias = value;
             }
         }
+        /// <summary>
+        /// Propiedad de solo lectura que devuelve el porcentaje de efectividad de pases
+        /// </summary>
         public double EfectividadDePases
         {
             get
@@ -73,11 +89,23 @@ namespace TrabajoPractico3
         #endregion
 
         #region Constructores
-
+        /// <summary>
+        /// Constructor sin parametros de mediocampista
+        /// </summary>
         public Mediocampista()
         {
 
         }
+        /// <summary>
+        /// Asigna la cantidad de pases correctos,velocidad,asistencias y totalidad de pases
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="edad"></param>
+        /// <param name="pasesC"></param>
+        /// <param name="totalPases"></param>
+        /// <param name="velocidad"></param>
+        /// <param name="asistencias"></param>
         public Mediocampista(string nombre,string apellido,int edad,int pasesC,int totalPases,double velocidad,int asistencias):base(nombre,apellido,edad)
         {
             this.cantidadPasesCorrectos = pasesC;
@@ -88,6 +116,10 @@ namespace TrabajoPractico3
         #endregion
 
         #region Metodos
+        /// <summary>
+        /// Muestra las estidisticas de un mediocampista 
+        /// </summary>
+        /// <returns>string con estadisticas</returns>
         protected override string MostrarEstadisticas()
         {
             StringBuilder sb = new StringBuilder();
@@ -100,13 +132,13 @@ namespace TrabajoPractico3
         #endregion
 
         #region Sobrecargas
+        /// <summary>
+        /// Sobrecarga explicita del string que muestra las estadisticas del mediocampista
+        /// </summary>
+        /// <param name="m"></param>
         public static explicit operator string(Mediocampista m)
         {
             return m.MostrarEstadisticas();
-        }
-        public override string ToString()
-        {
-            return $"Mediocampista:" + this.apellido + " " + this.nombre + ",Edad:" + this.edad;
         }
         #endregion
     }

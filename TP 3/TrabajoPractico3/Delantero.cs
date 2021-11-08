@@ -13,7 +13,9 @@ namespace TrabajoPractico3
         private int totalRegates;
 
         #region Propiedades
-        
+        /// <summary>
+        /// Propiedad de lectura y escritura que retorna la cantidad de goles
+        /// </summary>
         public int CantidadGoles
         {
             get
@@ -25,6 +27,9 @@ namespace TrabajoPractico3
                 this.cantidadGoles = value;
             }
         }
+        /// <summary>
+        /// Propiedad de lectura y escritura que retorna la cantidad de regates completos
+        /// </summary>
         public int CantRegatesCompletos
         {
             get
@@ -36,6 +41,9 @@ namespace TrabajoPractico3
                 this.cantidadRegatesCompletados = value;
             }
         }
+        /// <summary>
+        /// Propiedad de lectura y escritura que retorna la cantidad total de regates
+        /// </summary>
         public int TotalDeRegates
         {
             get
@@ -47,6 +55,9 @@ namespace TrabajoPractico3
                 this.totalRegates = value;
             }
         }
+        /// <summary>
+        /// Propiedad de solo lectura que retorna el porcentaje de regates correctos
+        /// </summary>
         public double RegatesCorrectos
         {
             get
@@ -62,10 +73,22 @@ namespace TrabajoPractico3
         #endregion
 
         #region Constructores
+        /// <summary>
+        /// Constructor sin parametros de un delantero
+        /// </summary>
         public Delantero()
         {
 
         }
+        /// <summary>
+        /// Construtor que asigna los valores de cantidad de goles,cantidad de regates completos y total de regates
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="edad"></param>
+        /// <param name="cantGoles"></param>
+        /// <param name="regatesCom"></param>
+        /// <param name="totalRegates"></param>
         public Delantero(string nombre,string apellido,int edad,int cantGoles,int regatesCom,int totalRegates):base(nombre,apellido,edad)
         {
             this.cantidadGoles = cantGoles;
@@ -75,6 +98,10 @@ namespace TrabajoPractico3
         #endregion
 
         #region Metodos
+        /// <summary>
+        /// Muestra las estadisticas del defensor
+        /// </summary>
+        /// <returns>String con las estadisticas</returns>
         protected override string MostrarEstadisticas()
         {
             StringBuilder sb = new StringBuilder();
@@ -87,13 +114,13 @@ namespace TrabajoPractico3
         #endregion
 
         #region Sobrecargas
+        /// <summary>
+        /// Sobrecarga explicita del string que muestra las estadisticas del delantero
+        /// </summary>
+        /// <param name="d"></param>
         public static explicit operator string(Delantero d)
         {
             return d.MostrarEstadisticas();
-        }
-        public override string ToString()
-        {
-            return $"Delantero:" + this.apellido + " " + this.nombre + ",Edad:" + this.edad;
         }
         #endregion
     }

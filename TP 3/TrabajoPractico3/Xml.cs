@@ -12,7 +12,7 @@ namespace TrabajoPractico3
     public class Xml<T>:IArchivo<T>
     {
         /// <summary>
-        /// Escribe los datos en un archivo tipo Xml.
+        /// Escribe los datos en un archivo tipo Xml
         /// </summary>
         /// <param name="path">Ruta del archivo.</param>
         /// <param name="datos">Datos a escribir.</param>

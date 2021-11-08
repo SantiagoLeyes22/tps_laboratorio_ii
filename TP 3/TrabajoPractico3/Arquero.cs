@@ -9,11 +9,14 @@ namespace TrabajoPractico3
     public class Arquero:Jugador
     {
         private int vallasInvictas;
-        private int cantPenalesAtajados;//Durante toda su carrera
-        private int cantPenalesPateados;//Durante toda su carrera
+        private int cantPenalesAtajados;
+        private int cantPenalesPateados;
 
         #region Propiedades
 
+        /// <summary>
+        /// Propiedad de solo lectura que muestra el porcentaje de vallas invictas
+        /// </summary>
         public double PorcentajeVallasInvictas
         {
             get
@@ -26,6 +29,9 @@ namespace TrabajoPractico3
                 return porcentaje;
             }
         }
+        /// <summary>
+        /// Propiedad de solo lectura que muestra la efectivad en penales
+        /// </summary>
         public double EfectivadEnPenales
         {
             get
@@ -38,6 +44,10 @@ namespace TrabajoPractico3
                 return porcentaje;
             }
         }
+        /// <summary>
+        /// Propiedad que devuelve la cantidad de vallas invictas
+        /// Tambien permite asignar el valor de vallas invictas
+        /// </summary>
         public int CantVallasInvictas
         {
             get
@@ -49,6 +59,10 @@ namespace TrabajoPractico3
                 this.vallasInvictas = value;
             }
         }
+        /// <summary>
+        /// Propiedad de lectura y escritura que devuelve la cantidad de penales pateados,tambien
+        /// permite asignar un valor
+        /// </summary>
         public int CantPenalesAtajados
         {
             get
@@ -60,6 +74,11 @@ namespace TrabajoPractico3
                 this.cantPenalesAtajados = value;
             }
         }
+        
+        /// <summary>
+        /// Propiedad que devuelve la cantidad de penales pateados
+        /// Permite asignar un valor de penales pateados
+        /// </summary>
         public int CantPenalesPateados
         {
             get
@@ -74,10 +93,23 @@ namespace TrabajoPractico3
         #endregion
 
         #region Constructor
+        /// <summary>
+        /// Constructor sin parametros
+        /// </summary>
         public Arquero()
         {
 
         }
+        /// <summary>
+        /// Constructor de Arquero con parametros
+        /// Asigna la cantidad de vallas invictas,cantidad de penales atajados y pateados
+        /// </summary>
+        /// <param name="nombre"></param>
+        /// <param name="apellido"></param>
+        /// <param name="edad"></param>
+        /// <param name="vallasI"></param>
+        /// <param name="cantPA"></param>
+        /// <param name="pPateados"></param>
         public Arquero(string nombre, string apellido, int edad, int vallasI, int cantPA, int pPateados) : base(nombre, apellido, edad)
         {
             this.vallasInvictas = vallasI;
@@ -88,7 +120,10 @@ namespace TrabajoPractico3
 
         #region Metodos
 
-        
+        /// <summary>
+        /// Muestra las estadisticas
+        /// </summary>
+        /// <returns>Devuelve una cadena con las estadisticas</returns>
         protected override string MostrarEstadisticas()
         {
             StringBuilder sb = new StringBuilder();
@@ -100,14 +135,16 @@ namespace TrabajoPractico3
         #endregion
 
         #region Sobrecargas
+        /// <summary>
+        /// Sobrecarga explicita para que el operador string devuelva las estadisticas de los jugadores
+        /// </summary>
+        /// <param name="a"></param>
         public static explicit operator string(Arquero a)
         {
             return a.MostrarEstadisticas();
         }
-        public override string ToString()
-        {
-            return $"Arquero:"+this.apellido + " " +this.nombre+",Edad:"+this.edad;
-        }
+       
+   
         #endregion
     }
 }

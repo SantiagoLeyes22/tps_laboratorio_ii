@@ -14,10 +14,18 @@ namespace TrabajoPractico3
         public string nombre;
 
         #region Construcores
+        /// <summary>
+        /// Constructor de equipo que instancia una lista de jugadores
+        /// </summary>
         private Equipo()
         {
             equipo = new List<Jugador>();
         }
+        /// <summary>
+        /// Constructor de equipo que asigna los valores de capacidad y nombre
+        /// </summary>
+        /// <param name="capacidad"></param>
+        /// <param name="nombre"></param>
         public Equipo(int capacidad,string nombre) : this()
         {
             this.capacidad = capacidad;
@@ -25,23 +33,7 @@ namespace TrabajoPractico3
         }
         #endregion
 
-        #region Propiedades
-     
-        #endregion
-
         #region Metodos
-        
-        public string mostrarEquipo(Equipo e)
-        {
-            StringBuilder sb = new StringBuilder();
-           
-            foreach (Jugador item in e.equipo)
-            {
-                //sb.AppendLine(item.ToString());
-            }
-            
-            return sb.ToString();
-        }
         /// <summary>
         /// Escribe los datos del equipo en un archivo xml.
         /// </summary>
@@ -69,6 +61,12 @@ namespace TrabajoPractico3
         #endregion
 
         #region Sobrecargas
+        /// <summary>
+        /// Verifica que un jugador este dentro del equipo
+        /// </summary>
+        /// <param name="e"></param>
+        /// <param name="j"></param>
+        /// <returns></returns>
         public static bool operator ==(Equipo e, Jugador j)
         {
             if (e.equipo.Contains(j))
@@ -77,23 +75,33 @@ namespace TrabajoPractico3
             }
             return false;
         }
+        /// <summary>
+        /// Verifica que un jugador no este dentro del equipo
+        /// </summary>
+        /// <param name="e"></param>
+        /// <param name="j"></param>
+        /// <returns></returns>
         public static bool operator !=(Equipo e, Jugador j)
         {
             return !(e == j);
         }
+        /// <summary>
+        /// Verifica que un jugador no este dentro de la lista, si no esta lo agrega
+        /// </summary>
+        /// <param name="e"></param>
+        /// <param name="j"></param>
+        /// <returns></returns>
         public static bool operator +(Equipo e, Jugador j)
         {
             bool rta = false;
             try
             {
-                if (e.equipo.Count < e.capacidad)
-                {
-                    if (e != j)
-                    {
-                        e.equipo.Add(j);
-                        rta = true;
-                    }
-                }
+                  if (e != j)
+                  {
+                     e.equipo.Add(j);
+                     rta = true;
+                  }
+
             }
             catch (Exception ex)
             {
@@ -102,6 +110,12 @@ namespace TrabajoPractico3
             
             return rta;
         }
+        /// <summary>
+        /// Verifica que el jugador este dentro del equipo,si lo encuentra lo elimina
+        /// </summary>
+        /// <param name="e"></param>
+        /// <param name="j"></param>
+        /// <returns></returns>
         public static bool operator -(Equipo e, Jugador j)
         {
             bool rta = false;

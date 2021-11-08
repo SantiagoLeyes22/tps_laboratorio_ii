@@ -9,7 +9,7 @@ namespace TrabajoPractico3
     public class FileException :Exception
     {
         /// <summary>
-        /// Constructor con parametro string.
+        /// Constructor con parametro string
         /// </summary>
         /// <param name="mensaje">Mensaje de error ingresado</param>
         public FileException(string mensaje)

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Santiago\\Desktop\\PARA SUBIR Y DESPUES BORRAR\\TP 3\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj": {}
+    "C:\\Users\\Santiago\\Desktop\\git test\\tps_laboratorio_ii\\TP 3\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Santiago\\Desktop\\PARA SUBIR Y DESPUES BORRAR\\TP 3\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj": {
+    "C:\\Users\\Santiago\\Desktop\\git test\\tps_laboratorio_ii\\TP 3\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\PARA SUBIR Y DESPUES BORRAR\\TP 3\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj",
+        "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\git test\\tps_laboratorio_ii\\TP 3\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj",
         "projectName": "TestUnitarioAppFutbol",
-        "projectPath": "C:\\Users\\Santiago\\Desktop\\PARA SUBIR Y DESPUES BORRAR\\TP 3\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj",
+        "projectPath": "C:\\Users\\Santiago\\Desktop\\git test\\tps_laboratorio_ii\\TP 3\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj",
         "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Santiago\\Desktop\\PARA SUBIR Y DESPUES BORRAR\\TP 3\\TestUnitarioAppFutbol\\obj\\",
+        "outputPath": "C:\\Users\\Santiago\\Desktop\\git test\\tps_laboratorio_ii\\TP 3\\TestUnitarioAppFutbol\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\Santiago\\Desktop\\PARA SUBIR Y DESPUES BORRAR\\TP 3\\TrabajoPractico3\\TrabajoPractico3.csproj": {
-                "projectPath": "C:\\Users\\Santiago\\Desktop\\PARA SUBIR Y DESPUES BORRAR\\TP 3\\TrabajoPractico3\\TrabajoPractico3.csproj"
+              "C:\\Users\\Santiago\\Desktop\\git test\\tps_laboratorio_ii\\TP 3\\TrabajoPractico3\\TrabajoPractico3.csproj": {
+                "projectPath": "C:\\Users\\Santiago\\Desktop\\git test\\tps_laboratorio_ii\\TP 3\\TrabajoPractico3\\TrabajoPractico3.csproj"
               }
             }
           }
@@ -80,14 +80,14 @@
         }
       }
     },
-    "C:\\Users\\Santiago\\Desktop\\PARA SUBIR Y DESPUES BORRAR\\TP 3\\TrabajoPractico3\\TrabajoPractico3.csproj": {
+    "C:\\Users\\Santiago\\Desktop\\git test\\tps_laboratorio_ii\\TP 3\\TrabajoPractico3\\TrabajoPractico3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\PARA SUBIR Y DESPUES BORRAR\\TP 3\\TrabajoPractico3\\TrabajoPractico3.csproj",
+        "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\git test\\tps_laboratorio_ii\\TP 3\\TrabajoPractico3\\TrabajoPractico3.csproj",
         "projectName": "TrabajoPractico3",
-        "projectPath": "C:\\Users\\Santiago\\Desktop\\PARA SUBIR Y DESPUES BORRAR\\TP 3\\TrabajoPractico3\\TrabajoPractico3.csproj",
+        "projectPath": "C:\\Users\\Santiago\\Desktop\\git test\\tps_laboratorio_ii\\TP 3\\TrabajoPractico3\\TrabajoPractico3.csproj",
         "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Santiago\\Desktop\\PARA SUBIR Y DESPUES BORRAR\\TP 3\\TrabajoPractico3\\obj\\",
+        "outputPath": "C:\\Users\\Santiago\\Desktop\\git test\\tps_laboratorio_ii\\TP 3\\TrabajoPractico3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
