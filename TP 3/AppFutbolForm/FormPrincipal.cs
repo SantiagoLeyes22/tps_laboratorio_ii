@@ -11,6 +11,9 @@ namespace AppFutbolForm
         public Equipo jugadores;
         int flag = 0;
 
+        /// <summary>
+        /// Constructor sin parametros del FormPrincipal, instancia un equipo
+        /// </summary>
         public FormPrincipal()
         {
             InitializeComponent();
@@ -99,6 +102,11 @@ namespace AppFutbolForm
                 this.lstJugadores.Items.Add(item.ToString());
             }
         }
+        /// <summary>
+        /// Evento formClosing, advierte al usuario que guarde antes de salir de la app
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void FormPrincipal_FormClosing(object sender, FormClosingEventArgs e)
         {
             if (flag ==0)
@@ -111,7 +119,11 @@ namespace AppFutbolForm
                 }
             }
         }
-
+        /// <summary>
+        /// FormLoad actualiza constantemente el listBox
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void FormPrincipal_Load(object sender, EventArgs e)
         {
             this.ActualizarLst();

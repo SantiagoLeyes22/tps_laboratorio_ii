@@ -13,6 +13,9 @@ namespace AppFutbolForm
 {
     public partial class FormAgregarMediocampista : FormAgregarBasic
     {
+        /// <summary>
+        /// Constructor sin parametros
+        /// </summary>
         public FormAgregarMediocampista()
         {
             InitializeComponent();
@@ -20,12 +23,22 @@ namespace AppFutbolForm
             MinimizeBox = false;
             CenterToParent();
         }
+        /// <summary>
+        /// Constructor con parametros que asigna los valores de equipo y un listBox
+        /// </summary>
+        /// <param name="e"></param>
+        /// <param name="jugadoresCargados"></param>
         public FormAgregarMediocampista(Equipo e,ListBox jugadoresCargados):this()
         {
             equipo = e;
             lstAuxiliar = jugadoresCargados;
         }
 
+        /// <summary>
+        /// Agrega un nuevo mediocampista a la lista
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             Mediocampista m = new Mediocampista();

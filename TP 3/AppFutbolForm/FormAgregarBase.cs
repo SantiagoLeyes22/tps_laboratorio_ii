@@ -16,6 +16,9 @@ namespace AppFutbolForm
         private Equipo equipo = new Equipo(22,"dsadf"); //No si esta bien 
         private ListBox lstAuxiliar = new ListBox();
         #region Constructores
+        /// <summary>
+        /// Form sin parametros agregarBase
+        /// </summary>
         public FormAgregarBase()
         {
             InitializeComponent();
@@ -26,6 +29,11 @@ namespace AppFutbolForm
             //this.cmbPosicion.SelectedIndex = 0;
             this.cmbPosicion.DropDownStyle = ComboBoxStyle.DropDownList;
         }
+        /// <summary>
+        /// Constructor con parametros que asigna los valores de un equipo y un ListBox
+        /// </summary>
+        /// <param name="e"></param>
+        /// <param name="jugadoresCargados"></param>
         public FormAgregarBase(Equipo e, ListBox jugadoresCargados) : this()
         {
             equipo = e;
@@ -33,6 +41,11 @@ namespace AppFutbolForm
         }
         #endregion
 
+        /// <summary>
+        /// Dependiendo del indice seleccionado redirecciona al formulario correcto
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void cmbPosicion_SelectedIndexChanged(object sender, EventArgs e)
         {
             this.Hide();

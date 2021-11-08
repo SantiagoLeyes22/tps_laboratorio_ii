@@ -16,6 +16,9 @@ namespace AppFutbolForm
     public partial class FormAgregarArquero: FormAgregarBasic
     {
         
+        /// <summary>
+        /// Constructor sin parametros
+        /// </summary>
         public FormAgregarArquero()
         {
             InitializeComponent();
@@ -23,12 +26,22 @@ namespace AppFutbolForm
             MinimizeBox = false;
             CenterToParent();
         }
+        /// <summary>
+        /// Constructor con parametros que asigna los valores de equipo y un listBox
+        /// </summary>
+        /// <param name="e"></param>
+        /// <param name="jugadoresCargados"></param>
         public FormAgregarArquero(Equipo e,ListBox jugadoresCargados):this()
         {
             equipo = e;
             lstAuxiliar = jugadoresCargados;
         }
 
+        /// <summary>
+        /// Agrega un nuevo arquero a la lista
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             Arquero nuevoArquero = new Arquero();

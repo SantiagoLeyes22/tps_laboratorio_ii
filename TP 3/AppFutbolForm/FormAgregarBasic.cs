@@ -18,6 +18,9 @@ namespace AppFutbolForm
         protected ListBox lstAuxiliar = new ListBox();
 
         #region Constructores
+        /// <summary>
+        /// Constructor sin parametros 
+        /// </summary>
         public FormAgregarBasic()
         {
             InitializeComponent();
@@ -28,10 +31,18 @@ namespace AppFutbolForm
         #endregion
 
 
+        /// <summary>
+        /// Boton agregar
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnAgregar_Click(object sender, EventArgs e)
         {
 
         }
+        /// <summary>
+        /// Actualiza los elementos del ListBox
+        /// </summary>
         public void ActualizarLst()
         {
 

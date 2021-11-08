@@ -17,10 +17,18 @@ namespace AppFutbolForm
         private Label lblNombre;
         private int opcion;
         
+        /// <summary>
+        /// Constructor sin parametros
+        /// </summary>
         public FormSeleccionarPorHabilidad()
         { 
             InitializeComponent();
         }
+        /// <summary>
+        /// Constructor con parametros que asigna los valores de equipo, un label y la opcion
+        /// </summary>
+        /// <param name="e"></param>
+        /// <param name="jugadoresCargados"></param>
         public FormSeleccionarPorHabilidad(Equipo equipo,Label nombre,int opcion):this()
         {
             this.opcion = opcion;
@@ -28,7 +36,10 @@ namespace AppFutbolForm
             lblNombre = nombre;
             armarListado(opcion);
         }
-
+        /// <summary>
+        /// Dependiendo de la opcion llama al listado correspondiente
+        /// </summary>
+        /// <param name="opcion"></param>
         public void armarListado(int opcion)
         {
             switch (opcion)
@@ -49,6 +60,11 @@ namespace AppFutbolForm
                     break;
             }
         }
+        /// <summary>
+        /// Agrega un jugador a la formacion
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             
@@ -81,6 +97,9 @@ namespace AppFutbolForm
                 }
             }
         }
+        /// <summary>
+        /// Arma el listado con solo defensas
+        /// </summary>
         private void ArmarListadoDefensas()
         {
             lstHabilidadesJ.Items.Clear();
@@ -92,6 +111,9 @@ namespace AppFutbolForm
                 }
             }
         }
+        /// <summary>
+        /// Arma el listado con solo mediocampistas
+        /// </summary>
         private void ArmarListadoMediocampista()
         {
             lstHabilidadesJ.Items.Clear();
@@ -103,6 +125,9 @@ namespace AppFutbolForm
                 }
             }
         }
+        /// <summary>
+        /// Arma el listado con solo delanteros
+        /// </summary>
         private void ArmarListadoDelantero()
         {
             lstHabilidadesJ.Items.Clear();
