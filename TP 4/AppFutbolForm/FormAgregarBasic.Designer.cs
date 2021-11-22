@@ -34,10 +34,12 @@ namespace AppFutbolForm
             this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
             this.label4 = new System.Windows.Forms.Label();
-            this.txtNombre = new System.Windows.Forms.TextBox();
-            this.txtApellido = new System.Windows.Forms.TextBox();
-            this.txtEdad = new System.Windows.Forms.TextBox();
-            this.txtCantPatidosJugados = new System.Windows.Forms.TextBox();
+            this.txtNombreP = new System.Windows.Forms.TextBox();
+            this.txtApellidoP = new System.Windows.Forms.TextBox();
+            this.txtEdadP = new System.Windows.Forms.TextBox();
+            this.txtCantPatidosJugadosP = new System.Windows.Forms.TextBox();
+            this.cmbPosicion = new System.Windows.Forms.ComboBox();
+            this.label5 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // btnAgregar
@@ -86,43 +88,63 @@ namespace AppFutbolForm
             this.label4.TabIndex = 4;
             this.label4.Text = "Cantidad partidos jugados:";
             // 
-            // txtNombre
+            // txtNombreP
             // 
-            this.txtNombre.Location = new System.Drawing.Point(12, 32);
-            this.txtNombre.Name = "txtNombre";
-            this.txtNombre.Size = new System.Drawing.Size(171, 23);
-            this.txtNombre.TabIndex = 6;
+            this.txtNombreP.Location = new System.Drawing.Point(12, 32);
+            this.txtNombreP.Name = "txtNombreP";
+            this.txtNombreP.Size = new System.Drawing.Size(171, 23);
+            this.txtNombreP.TabIndex = 6;
             // 
-            // txtApellido
+            // txtApellidoP
             // 
-            this.txtApellido.Location = new System.Drawing.Point(12, 86);
-            this.txtApellido.Name = "txtApellido";
-            this.txtApellido.Size = new System.Drawing.Size(171, 23);
-            this.txtApellido.TabIndex = 7;
+            this.txtApellidoP.Location = new System.Drawing.Point(12, 86);
+            this.txtApellidoP.Name = "txtApellidoP";
+            this.txtApellidoP.Size = new System.Drawing.Size(171, 23);
+            this.txtApellidoP.TabIndex = 7;
             // 
-            // txtEdad
+            // txtEdadP
             // 
-            this.txtEdad.Location = new System.Drawing.Point(12, 146);
-            this.txtEdad.Name = "txtEdad";
-            this.txtEdad.Size = new System.Drawing.Size(171, 23);
-            this.txtEdad.TabIndex = 8;
+            this.txtEdadP.Location = new System.Drawing.Point(12, 146);
+            this.txtEdadP.Name = "txtEdadP";
+            this.txtEdadP.Size = new System.Drawing.Size(171, 23);
+            this.txtEdadP.TabIndex = 8;
             // 
-            // txtCantPatidosJugados
+            // txtCantPatidosJugadosP
             // 
-            this.txtCantPatidosJugados.Location = new System.Drawing.Point(12, 199);
-            this.txtCantPatidosJugados.Name = "txtCantPatidosJugados";
-            this.txtCantPatidosJugados.Size = new System.Drawing.Size(171, 23);
-            this.txtCantPatidosJugados.TabIndex = 9;
+            this.txtCantPatidosJugadosP.Location = new System.Drawing.Point(12, 199);
+            this.txtCantPatidosJugadosP.Name = "txtCantPatidosJugadosP";
+            this.txtCantPatidosJugadosP.Size = new System.Drawing.Size(171, 23);
+            this.txtCantPatidosJugadosP.TabIndex = 9;
+            // 
+            // cmbPosicion
+            // 
+            this.cmbPosicion.FormattingEnabled = true;
+            this.cmbPosicion.Location = new System.Drawing.Point(12, 259);
+            this.cmbPosicion.Name = "cmbPosicion";
+            this.cmbPosicion.Size = new System.Drawing.Size(171, 23);
+            this.cmbPosicion.TabIndex = 10;
+            this.cmbPosicion.SelectedIndexChanged += new System.EventHandler(this.cmbPosicion_SelectedIndexChanged);
+            // 
+            // label5
+            // 
+            this.label5.AutoSize = true;
+            this.label5.Location = new System.Drawing.Point(12, 241);
+            this.label5.Name = "label5";
+            this.label5.Size = new System.Drawing.Size(55, 15);
+            this.label5.TabIndex = 11;
+            this.label5.Text = "Posicion ";
             // 
             // FormAgregarBasic
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(285, 504);
-            this.Controls.Add(this.txtCantPatidosJugados);
-            this.Controls.Add(this.txtEdad);
-            this.Controls.Add(this.txtApellido);
-            this.Controls.Add(this.txtNombre);
+            this.Controls.Add(this.label5);
+            this.Controls.Add(this.cmbPosicion);
+            this.Controls.Add(this.txtCantPatidosJugadosP);
+            this.Controls.Add(this.txtEdadP);
+            this.Controls.Add(this.txtApellidoP);
+            this.Controls.Add(this.txtNombreP);
             this.Controls.Add(this.label4);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
@@ -140,10 +162,12 @@ namespace AppFutbolForm
         protected System.Windows.Forms.Label label2;
         protected System.Windows.Forms.Label label3;
         protected System.Windows.Forms.Label label4;
-        protected System.Windows.Forms.TextBox txtNombre;
-        protected System.Windows.Forms.TextBox txtApellido;
-        protected System.Windows.Forms.TextBox txtEdad;
-        protected System.Windows.Forms.TextBox txtCantPatidosJugados;
+        protected System.Windows.Forms.TextBox txtNombreP;
+        protected System.Windows.Forms.TextBox txtApellidoP;
+        protected System.Windows.Forms.TextBox txtEdadP;
+        protected System.Windows.Forms.TextBox txtCantPatidosJugadosP;
         public System.Windows.Forms.Button btnAgregar;
+        private System.Windows.Forms.ComboBox cmbPosicion;
+        private System.Windows.Forms.Label label5;
     }
 }

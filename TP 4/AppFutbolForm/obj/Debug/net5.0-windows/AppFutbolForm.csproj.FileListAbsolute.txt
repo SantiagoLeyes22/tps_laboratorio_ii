@@ -94,3 +94,39 @@ C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\AppFutbolForm\bin\Debug\net5.0
 C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\TrabajoPractico4.dll
 C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\TrabajoPractico4.pdb
 C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.csproj.CopyComplete
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\AppFutbolForm.exe
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\AppFutbolForm.deps.json
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\AppFutbolForm.runtimeconfig.json
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\AppFutbolForm.runtimeconfig.dev.json
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\AppFutbolForm.dll
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\ref\AppFutbolForm.dll
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\AppFutbolForm.pdb
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\TrabajoPractico4.dll
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\bin\Debug\net5.0-windows\TrabajoPractico4.pdb
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarArquero.resources
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarBase.resources
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarBasic.resources
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarDefensor.resources
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarDelantero.resources
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormAgregarMediocampista.resources
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormArmarFormacion.resources
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormConsultas.resources
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormPrincipal.resources
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.FormSeleccionarPorHabilidad.resources
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.Properties.Resources.resources
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.csproj.GenerateResource.cache
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.dll
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\ref\AppFutbolForm.dll
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.pdb
+C:\Users\Santiago\Desktop\test git\tps_laboratorio_ii\TP 4\AppFutbolForm\obj\Debug\net5.0-windows\AppFutbolForm.genruntimeconfig.cache

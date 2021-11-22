@@ -44,7 +44,7 @@ namespace AppFutbolForm
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(12, 234);
+            this.label6.Location = new System.Drawing.Point(12, 297);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(133, 15);
             this.label6.TabIndex = 11;
@@ -52,7 +52,7 @@ namespace AppFutbolForm
             // 
             // txtVallasInvictas
             // 
-            this.txtVallasInvictas.Location = new System.Drawing.Point(12, 252);
+            this.txtVallasInvictas.Location = new System.Drawing.Point(12, 315);
             this.txtVallasInvictas.Name = "txtVallasInvictas";
             this.txtVallasInvictas.Size = new System.Drawing.Size(171, 23);
             this.txtVallasInvictas.TabIndex = 12;
@@ -60,7 +60,7 @@ namespace AppFutbolForm
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(14, 289);
+            this.label7.Location = new System.Drawing.Point(12, 341);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(160, 15);
             this.label7.TabIndex = 13;
@@ -68,7 +68,7 @@ namespace AppFutbolForm
             // 
             // txtPenalesAtajados
             // 
-            this.txtPenalesAtajados.Location = new System.Drawing.Point(12, 307);
+            this.txtPenalesAtajados.Location = new System.Drawing.Point(10, 359);
             this.txtPenalesAtajados.Name = "txtPenalesAtajados";
             this.txtPenalesAtajados.Size = new System.Drawing.Size(171, 23);
             this.txtPenalesAtajados.TabIndex = 14;
@@ -76,7 +76,7 @@ namespace AppFutbolForm
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(12, 344);
+            this.label8.Location = new System.Drawing.Point(10, 396);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(198, 15);
             this.label8.TabIndex = 15;
@@ -84,7 +84,7 @@ namespace AppFutbolForm
             // 
             // txtTotalPenales
             // 
-            this.txtTotalPenales.Location = new System.Drawing.Point(12, 362);
+            this.txtTotalPenales.Location = new System.Drawing.Point(10, 414);
             this.txtTotalPenales.Name = "txtTotalPenales";
             this.txtTotalPenales.Size = new System.Drawing.Size(171, 23);
             this.txtTotalPenales.TabIndex = 16;
@@ -104,10 +104,10 @@ namespace AppFutbolForm
             this.Name = "FormAgregarArquero";
             this.Text = "AgregarArquero";
             this.Controls.SetChildIndex(this.btnAgregar, 0);
-            this.Controls.SetChildIndex(this.txtNombre, 0);
-            this.Controls.SetChildIndex(this.txtCantPatidosJugados, 0);
-            this.Controls.SetChildIndex(this.txtEdad, 0);
-            this.Controls.SetChildIndex(this.txtApellido, 0);
+            this.Controls.SetChildIndex(this.txtNombreP, 0);
+            this.Controls.SetChildIndex(this.txtCantPatidosJugadosP, 0);
+            this.Controls.SetChildIndex(this.txtEdadP, 0);
+            this.Controls.SetChildIndex(this.txtApellidoP, 0);
             this.Controls.SetChildIndex(this.label1, 0);
             this.Controls.SetChildIndex(this.label2, 0);
             this.Controls.SetChildIndex(this.label3, 0);

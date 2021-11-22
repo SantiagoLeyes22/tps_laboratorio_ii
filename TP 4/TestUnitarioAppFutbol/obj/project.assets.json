@@ -6135,11 +6135,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj",
+      "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj",
       "projectName": "TestUnitarioAppFutbol",
-      "projectPath": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj",
+      "projectPath": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj",
       "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TestUnitarioAppFutbol\\obj\\",
+      "outputPath": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TestUnitarioAppFutbol\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6156,8 +6156,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj": {
-              "projectPath": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj"
+            "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj": {
+              "projectPath": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj"
             }
           }
         }

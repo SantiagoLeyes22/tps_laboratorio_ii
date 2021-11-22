@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKPRNwCfXET93SOoZ13MrwWiv7uFkI523Bbr52Qv6au+qTtq/+TIjk91lSvdNrYZkiokhFXwFfrATeu6Xvfykw==",
+  "dgSpecHash": "NmUIVFvWIY6Cu9uxDNmgK/nvMq9HXc7s+K843lYuZBPVQQJhUxvavZ2s3Po7BnRaZE3OWsoaAU6hMzVT4LTByw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\AppFutbolForm\\AppFutbolForm.csproj",
+  "projectFilePath": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\AppFutbolForm\\AppFutbolForm.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Santiago\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Santiago\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

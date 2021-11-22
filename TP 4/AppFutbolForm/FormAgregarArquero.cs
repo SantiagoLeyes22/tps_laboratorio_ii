@@ -25,6 +25,8 @@ namespace AppFutbolForm
             MaximizeBox = false;
             MinimizeBox = false;
             CenterToParent();
+
+            
         }
         /// <summary>
         /// Constructor con parametros que asigna los valores de equipo y un listBox
@@ -45,12 +47,12 @@ namespace AppFutbolForm
         private void btnAgregar_Click(object sender, EventArgs e)
         {
             Arquero nuevoArquero = new Arquero();
-            nuevoArquero.Nombre = txtNombre.Text;
-            nuevoArquero.Apellido = txtApellido.Text;
+            nuevoArquero.Nombre = txtNombreP.Text;
+            nuevoArquero.Apellido = txtApellidoP.Text;
             try
             {
-                nuevoArquero.Edad = Convert.ToInt32(txtEdad.Text);
-                nuevoArquero.CantidadPartidosJugados = Convert.ToInt32(txtCantPatidosJugados.Text);
+                nuevoArquero.Edad = Convert.ToInt32(txtEdadP.Text);
+                nuevoArquero.CantidadPartidosJugados = Convert.ToInt32(txtCantPatidosJugadosP.Text);
                 nuevoArquero.CantVallasInvictas = Convert.ToInt32(txtVallasInvictas.Text);
                 nuevoArquero.CantPenalesAtajados = Convert.ToInt32(txtPenalesAtajados.Text);
                 nuevoArquero.CantPenalesPateados = Convert.ToInt32(txtTotalPenales.Text);

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj": {}
+    "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj": {
+    "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj",
+        "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj",
         "projectName": "TrabajoPractico4",
-        "projectPath": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj",
+        "projectPath": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj",
         "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TrabajoPractico3\\obj\\",
+        "outputPath": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TrabajoPractico3\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",

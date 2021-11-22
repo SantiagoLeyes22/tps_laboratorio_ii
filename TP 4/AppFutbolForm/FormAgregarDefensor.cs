@@ -45,12 +45,12 @@ namespace AppFutbolForm
         {
             Defensor d = new Defensor();
             d.Edad = 0;
-            d.Nombre = txtNombre.Text;
-            d.Apellido = txtApellido.Text;
+            d.Nombre = txtNombreP.Text;
+            d.Apellido = txtApellidoP.Text;
             try
             {
-                d.Edad = Convert.ToInt32(txtEdad.Text);
-                d.CantidadPartidosJugados = Convert.ToInt32(txtCantPatidosJugados.Text);
+                d.Edad = Convert.ToInt32(txtEdadP.Text);
+                d.CantidadPartidosJugados = Convert.ToInt32(txtCantPatidosJugadosP.Text);
                 d.DistanciaRecorrida = Convert.ToDouble(txtDistanciaRecorrida.Text);
                 d.Tipo = (TipoDefensor)cmbTipoDefensor.SelectedItem;
                 d.TotalQuites = Convert.ToInt32(txtTotalQuites.Text);

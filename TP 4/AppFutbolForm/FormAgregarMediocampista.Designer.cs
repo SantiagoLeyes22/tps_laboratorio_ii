@@ -63,7 +63,7 @@ namespace AppFutbolForm
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Location = new System.Drawing.Point(12, 228);
+            this.label6.Location = new System.Drawing.Point(12, 297);
             this.label6.Name = "label6";
             this.label6.Size = new System.Drawing.Size(128, 15);
             this.label6.TabIndex = 11;
@@ -71,7 +71,7 @@ namespace AppFutbolForm
             // 
             // txtTotalPases
             // 
-            this.txtTotalPases.Location = new System.Drawing.Point(12, 247);
+            this.txtTotalPases.Location = new System.Drawing.Point(12, 315);
             this.txtTotalPases.Name = "txtTotalPases";
             this.txtTotalPases.Size = new System.Drawing.Size(171, 23);
             this.txtTotalPases.TabIndex = 12;
@@ -79,7 +79,7 @@ namespace AppFutbolForm
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(12, 285);
+            this.label7.Location = new System.Drawing.Point(12, 341);
             this.label7.Name = "label7";
             this.label7.Size = new System.Drawing.Size(116, 15);
             this.label7.TabIndex = 13;
@@ -87,7 +87,7 @@ namespace AppFutbolForm
             // 
             // txtPasesCorrectos
             // 
-            this.txtPasesCorrectos.Location = new System.Drawing.Point(12, 303);
+            this.txtPasesCorrectos.Location = new System.Drawing.Point(12, 359);
             this.txtPasesCorrectos.Name = "txtPasesCorrectos";
             this.txtPasesCorrectos.Size = new System.Drawing.Size(171, 23);
             this.txtPasesCorrectos.TabIndex = 14;
@@ -95,7 +95,7 @@ namespace AppFutbolForm
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(12, 338);
+            this.label8.Location = new System.Drawing.Point(12, 394);
             this.label8.Name = "label8";
             this.label8.Size = new System.Drawing.Size(58, 15);
             this.label8.TabIndex = 15;
@@ -103,7 +103,7 @@ namespace AppFutbolForm
             // 
             // txtVelocidad
             // 
-            this.txtVelocidad.Location = new System.Drawing.Point(12, 356);
+            this.txtVelocidad.Location = new System.Drawing.Point(12, 412);
             this.txtVelocidad.Name = "txtVelocidad";
             this.txtVelocidad.Size = new System.Drawing.Size(171, 23);
             this.txtVelocidad.TabIndex = 16;
@@ -111,7 +111,7 @@ namespace AppFutbolForm
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(12, 392);
+            this.label9.Location = new System.Drawing.Point(12, 448);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(133, 15);
             this.label9.TabIndex = 17;
@@ -119,7 +119,7 @@ namespace AppFutbolForm
             // 
             // txtAsistencias
             // 
-            this.txtAsistencias.Location = new System.Drawing.Point(12, 410);
+            this.txtAsistencias.Location = new System.Drawing.Point(12, 466);
             this.txtAsistencias.Name = "txtAsistencias";
             this.txtAsistencias.Size = new System.Drawing.Size(171, 23);
             this.txtAsistencias.TabIndex = 18;
@@ -127,7 +127,7 @@ namespace AppFutbolForm
             // label10
             // 
             this.label10.AutoSize = true;
-            this.label10.Location = new System.Drawing.Point(76, 338);
+            this.label10.Location = new System.Drawing.Point(76, 394);
             this.label10.Name = "label10";
             this.label10.Size = new System.Drawing.Size(36, 15);
             this.label10.TabIndex = 19;
@@ -151,10 +151,10 @@ namespace AppFutbolForm
             this.Name = "FormAgregarMediocampista";
             this.Text = "FormAgregarMediocampista";
             this.Controls.SetChildIndex(this.btnAgregar, 0);
-            this.Controls.SetChildIndex(this.txtNombre, 0);
-            this.Controls.SetChildIndex(this.txtCantPatidosJugados, 0);
-            this.Controls.SetChildIndex(this.txtEdad, 0);
-            this.Controls.SetChildIndex(this.txtApellido, 0);
+            this.Controls.SetChildIndex(this.txtNombreP, 0);
+            this.Controls.SetChildIndex(this.txtCantPatidosJugadosP, 0);
+            this.Controls.SetChildIndex(this.txtEdadP, 0);
+            this.Controls.SetChildIndex(this.txtApellidoP, 0);
             this.Controls.SetChildIndex(this.label1, 0);
             this.Controls.SetChildIndex(this.label2, 0);
             this.Controls.SetChildIndex(this.label3, 0);

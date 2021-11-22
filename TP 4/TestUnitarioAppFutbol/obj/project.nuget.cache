@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5IhEq9VL6nMdMfuH0wVvWQ9Jp5cR3LDFThXLYBWARBg2kdE7xsPHv/HfP57/2Xx87SJ6iwlQbj7DncAcu/1/DA==",
+  "dgSpecHash": "ZeaDWGPFZcKkwmz8x+VBm+iodfVybxnNJAJ3cWLZDmPd5zKzT2p8Gu4YMAO9Vpka4JVFSkppi+JqQYT+t9yjpA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj",
+  "projectFilePath": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TestUnitarioAppFutbol\\TestUnitarioAppFutbol.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Santiago\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\Santiago\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

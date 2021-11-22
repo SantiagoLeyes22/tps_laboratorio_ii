@@ -43,12 +43,12 @@ namespace AppFutbolForm
         {
             Mediocampista m = new Mediocampista();
             m.Edad = 0;
-            m.Nombre = txtNombre.Text;
-            m.Apellido = txtApellido.Text;
+            m.Nombre = txtNombreP.Text;
+            m.Apellido = txtApellidoP.Text;
             try
             {
-                m.Edad = Convert.ToInt32(txtEdad.Text);
-                m.CantidadPartidosJugados = Convert.ToInt32(txtCantPatidosJugados.Text);
+                m.Edad = Convert.ToInt32(txtEdadP.Text);
+                m.CantidadPartidosJugados = Convert.ToInt32(txtCantPatidosJugadosP.Text);
                 m.CantAsistencias = Convert.ToInt32(txtAsistencias.Text);
                 m.CantidadPasesCorrectos = Convert.ToInt32(txtPasesCorrectos.Text);
                 m.TotalPases = Convert.ToInt32(txtTotalPases.Text);

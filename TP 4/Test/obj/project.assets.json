@@ -2,28 +2,28 @@
   "version": 3,
   "targets": {
     "net5.0": {
-      "TrabajoPractico3/1.0.0": {
+      "TrabajoPractico4/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "compile": {
-          "bin/placeholder/TrabajoPractico3.dll": {}
+          "bin/placeholder/TrabajoPractico4.dll": {}
         },
         "runtime": {
-          "bin/placeholder/TrabajoPractico3.dll": {}
+          "bin/placeholder/TrabajoPractico4.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "TrabajoPractico3/1.0.0": {
+    "TrabajoPractico4/1.0.0": {
       "type": "project",
-      "path": "../TrabajoPractico3/TrabajoPractico3.csproj",
-      "msbuildProject": "../TrabajoPractico3/TrabajoPractico3.csproj"
+      "path": "../TrabajoPractico3/TrabajoPractico4.csproj",
+      "msbuildProject": "../TrabajoPractico3/TrabajoPractico4.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net5.0": [
-      "TrabajoPractico3 >= 1.0.0"
+      "TrabajoPractico4 >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\Test\\Test.csproj",
+      "projectUniqueName": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\Test\\Test.csproj",
       "projectName": "Test",
-      "projectPath": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\Test\\Test.csproj",
+      "projectPath": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\Test\\Test.csproj",
       "packagesPath": "C:\\Users\\Santiago\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\Test\\obj\\",
+      "outputPath": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\Test\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Santiago\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TrabajoPractico3\\TrabajoPractico3.csproj": {
-              "projectPath": "C:\\Users\\Santiago\\Desktop\\Trabajo Practico 4\\TP 4\\TrabajoPractico3\\TrabajoPractico3.csproj"
+            "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj": {
+              "projectPath": "C:\\Users\\Santiago\\Desktop\\test git\\tps_laboratorio_ii\\TP 4\\TrabajoPractico3\\TrabajoPractico4.csproj"
             }
           }
         }

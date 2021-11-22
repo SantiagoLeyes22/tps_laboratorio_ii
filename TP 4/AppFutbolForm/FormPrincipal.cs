@@ -30,7 +30,9 @@ namespace AppFutbolForm
         /// <param name="e"></param>
         private void btnAgregar_Click(object sender, EventArgs e)
         {
-            FormAgregarBase frmAgregar = new FormAgregarBase(jugadores,this.lstJugadores);
+            //FormAgregarBase frmAgregar = new FormAgregarBase(jugadores,this.lstJugadores);
+            //frmAgregar.Show();
+            FormAgregarBasic frmAgregar = new FormAgregarBasic(jugadores, this.lstJugadores);
             frmAgregar.Show();
             this.ActualizarLst();
         }
