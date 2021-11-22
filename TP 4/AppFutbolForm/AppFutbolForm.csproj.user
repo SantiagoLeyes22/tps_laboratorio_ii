@@ -4,9 +4,6 @@
     <Compile Update="FormAgregarArquero.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="FormAgregarBase.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="FormAgregarBasic.cs">
       <SubType>Form</SubType>
     </Compile>
