@@ -1,0 +1,36 @@
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\bin\Debug\net5.0\Test.exe
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\bin\Debug\net5.0\Test.deps.json
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\bin\Debug\net5.0\Test.dll
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\bin\Debug\net5.0\ref\Test.dll
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\bin\Debug\net5.0\Test.pdb
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\bin\Debug\net5.0\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\bin\Debug\net5.0\TrabajoPractico3.pdb
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\obj\Debug\net5.0\Test.dll
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\obj\Debug\net5.0\ref\Test.dll
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\obj\Debug\net5.0\Test.pdb
+C:\Users\Santiago\Desktop\TP3\AppFutbol\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\bin\Debug\net5.0\Test.exe
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\bin\Debug\net5.0\Test.deps.json
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\bin\Debug\net5.0\Test.runtimeconfig.json
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\bin\Debug\net5.0\Test.runtimeconfig.dev.json
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\bin\Debug\net5.0\Test.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\bin\Debug\net5.0\ref\Test.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\bin\Debug\net5.0\Test.pdb
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\bin\Debug\net5.0\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\bin\Debug\net5.0\TrabajoPractico3.pdb
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\obj\Debug\net5.0\Test.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\obj\Debug\net5.0\Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\obj\Debug\net5.0\Test.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\obj\Debug\net5.0\Test.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\obj\Debug\net5.0\Test.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\obj\Debug\net5.0\Test.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\obj\Debug\net5.0\ref\Test.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\obj\Debug\net5.0\Test.pdb
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\Test\obj\Debug\net5.0\Test.genruntimeconfig.cache

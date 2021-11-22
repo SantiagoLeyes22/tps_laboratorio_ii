@@ -1,0 +1,36 @@
+C:\Users\Santiago\Desktop\TP3\AppFutbol\TrabajoPractico3\bin\Debug\net5.0\TrabajoPractico3.deps.json
+C:\Users\Santiago\Desktop\TP3\AppFutbol\TrabajoPractico3\bin\Debug\net5.0\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\TP3\AppFutbol\TrabajoPractico3\bin\Debug\net5.0\ref\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\TP3\AppFutbol\TrabajoPractico3\bin\Debug\net5.0\TrabajoPractico3.pdb
+C:\Users\Santiago\Desktop\TP3\AppFutbol\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\TP3\AppFutbol\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\TP3\AppFutbol\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\TP3\AppFutbol\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\TP3\AppFutbol\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\TP3\AppFutbol\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\TP3\AppFutbol\TrabajoPractico3\obj\Debug\net5.0\ref\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\TP3\AppFutbol\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.pdb
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\TrabajoPractico3\bin\Debug\net5.0\TrabajoPractico3.deps.json
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\TrabajoPractico3\bin\Debug\net5.0\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\TrabajoPractico3\bin\Debug\net5.0\ref\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\TrabajoPractico3\bin\Debug\net5.0\TrabajoPractico3.pdb
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\TrabajoPractico3\obj\Debug\net5.0\ref\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\git test\tps_laboratorio_ii\TP 3\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.pdb
+C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\TrabajoPractico3\bin\Debug\net5.0\TrabajoPractico3.deps.json
+C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\TrabajoPractico3\bin\Debug\net5.0\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\TrabajoPractico3\bin\Debug\net5.0\ref\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\TrabajoPractico3\bin\Debug\net5.0\TrabajoPractico3.pdb
+C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\TrabajoPractico3\obj\Debug\net5.0\ref\TrabajoPractico3.dll
+C:\Users\Santiago\Desktop\Trabajo Practico 4\TP 4\TrabajoPractico3\obj\Debug\net5.0\TrabajoPractico3.pdb
